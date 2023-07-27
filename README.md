@@ -1,6 +1,6 @@
 ## Hello world 👋
 
-- I'm Giovanni Leão. Currently i'm a student of computational engineering at SENAI CIMATEC (Salvador - BA). Right now my focus is to improve my knowledge in coding. 
+- My name is Giovanni Leão. Currently i'm a student of computational engineering at SENAI CIMATEC (Salvador - BA). Right now my focus is to improve my knowledge in coding. 
 
 
 - 🔭 I’m currently studying python for data analysis 
